@@ -4,4 +4,4 @@ function twice($num){
     return $result;    
 }
 
-echo twice();
+echo twice(2);
