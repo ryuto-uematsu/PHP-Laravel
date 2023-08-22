@@ -1,7 +1,7 @@
 <?php
 $total = 0;
-for($add = 1;$add < 10001;$add++){
-    $total += $add;
+for($i = 1;$i < 10001;$i++){
+    $total += $i;
 }
 
 echo $total;
