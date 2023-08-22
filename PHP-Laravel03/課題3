@@ -1,3 +1,0 @@
-cd mynews
-//Admin/ProfileControllerを作成
-php artisan make:controller Admin/ProfileController
